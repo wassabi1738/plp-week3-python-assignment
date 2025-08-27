@@ -16,3 +16,23 @@ The program should:
 1. Prompt the user to input the original price.
 2. Prompt the user to input the discount percentage.
 3. Print the final price with appropriate formatting.
+
+## 🛠 Implementation
+
+The full solution is in [`week3_assignment_discount.py`](./week3_assignment_discount.py).
+
+**🚀 How to Run**
+Clone this repository:
+1. git clone https://github.com/wassabi1738/plp-week3-python-assignment.git
+2. cd plp-week3-python-assignment
+
+## Run the script:
+1. python week3_assignment_discount.py
+
+📚 Concepts Used
+Functions — Encapsulating logic for reuse.
+
+Conditional Statements — Applying business logic.
+
+🏆 Author
+Kevin Macharia - Passionate about DevOps, automation, and building solutions that connect technology with real-world problems.
