@@ -31,9 +31,9 @@ Clone this repository:
 
 📚 Concepts Used
 
-Functions — Encapsulating logic for reuse.
+1. Functions — Encapsulating logic for reuse.
 
-Conditional Statements — Applying business logic.
+2. Conditional Statements — Applying business logic.
 
 🏆 Author
 Kevin Macharia - Passionate about DevOps, automation, and building solutions that connect technology with real-world problems.
