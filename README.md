@@ -30,6 +30,7 @@ Clone this repository:
 1. python week3_assignment_discount.py
 
 📚 Concepts Used
+
 Functions — Encapsulating logic for reuse.
 
 Conditional Statements — Applying business logic.
